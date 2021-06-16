@@ -1,4 +1,4 @@
-Experiment 2- SJF
+Experiment 3- Safety Algorithm
 
 Aim : Write a program for Saftey algorithm.
 
